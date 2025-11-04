@@ -1,0 +1,27 @@
+{
+  "IMG_W": 800,
+  "IMG_H": 600,
+  "GRID_W": 8,
+  "GRID_H": 8,
+  "CELL_W": 100,
+  "CELL_H": 75,
+  "POS_INDICES_ARE_ONE_BASED": false,
+  "HOG": {
+    "orientations": 9,
+    "ppc": [
+      8,
+      8
+    ],
+    "cpb": [
+      2,
+      2
+    ],
+    "norm": "L2-Hys"
+  },
+  "USE_COLOR_HIST": true,
+  "COLOR_BINS": [
+    16,
+    8,
+    8
+  ]
+}
